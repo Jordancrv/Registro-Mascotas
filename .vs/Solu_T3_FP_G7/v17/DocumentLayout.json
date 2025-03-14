@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\T3\\T3_Upn_G7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|C:\\Proyectos\\T3\\T3_Upn_G7\\t3_fp_g7\\formduenio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|solutionrelative:t3_fp_g7\\formduenio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|C:\\Proyectos\\T3\\T3_Upn_G7\\t3_fp_g7\\formduenio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|solutionrelative:t3_fp_g7\\formduenio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|c:\\proyectos\\t3\\t3_upn_g7\\t3_fp_g7\\duenio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|solutionrelative:t3_fp_g7\\duenio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|C:\\Proyectos\\T3\\T3_Upn_G7\\t3_fp_g7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|solutionrelative:t3_fp_g7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|C:\\Proyectos\\T3\\T3_Upn_G7\\t3_fp_g7\\formnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|solutionrelative:t3_fp_g7\\formnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|C:\\Proyectos\\T3\\T3_Upn_G7\\t3_fp_g7\\formnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|solutionrelative:t3_fp_g7\\formnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|C:\\Proyectos\\T3\\T3_Upn_G7\\t3_fp_g7\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60F2443-EDAB-4812-B509-502C79001484}|T3_FP_G7\\T3_FP_G7.csproj|solutionrelative:t3_fp_g7\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDuenio.cs",
+              "DocumentMoniker": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\FormDuenio.cs",
+              "RelativeDocumentMoniker": "T3_FP_G7\\FormDuenio.cs",
+              "ToolTip": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\FormDuenio.cs",
+              "RelativeToolTip": "T3_FP_G7\\FormDuenio.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAewJAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:07:41.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Duenio.cs",
+              "DocumentMoniker": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\Duenio.cs",
+              "RelativeDocumentMoniker": "T3_FP_G7\\Duenio.cs",
+              "ToolTip": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\Duenio.cs",
+              "RelativeToolTip": "T3_FP_G7\\Duenio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:07:59.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\Mascota.cs",
+              "RelativeDocumentMoniker": "T3_FP_G7\\Mascota.cs",
+              "ToolTip": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\Mascota.cs",
+              "RelativeToolTip": "T3_FP_G7\\Mascota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:07:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\Form1.cs",
+              "RelativeDocumentMoniker": "T3_FP_G7\\Form1.cs",
+              "ToolTip": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "T3_FP_G7\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:07:41.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormNumeros.cs",
+              "DocumentMoniker": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\FormNumeros.cs",
+              "RelativeDocumentMoniker": "T3_FP_G7\\FormNumeros.cs",
+              "ToolTip": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\FormNumeros.cs",
+              "RelativeToolTip": "T3_FP_G7\\FormNumeros.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAIIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:07:41.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNumeros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\FormNumeros.cs",
+              "RelativeDocumentMoniker": "T3_FP_G7\\FormNumeros.cs",
+              "ToolTip": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\FormNumeros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "T3_FP_G7\\FormNumeros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:07:41.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDuenio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\FormDuenio.cs",
+              "RelativeDocumentMoniker": "T3_FP_G7\\FormDuenio.cs",
+              "ToolTip": "C:\\Proyectos\\T3\\T3_Upn_G7\\T3_FP_G7\\FormDuenio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "T3_FP_G7\\FormDuenio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:07:41.584Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

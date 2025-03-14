@@ -1,0 +1,75 @@
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe.config
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\bin\Debug\T3_FP_G7.pdb
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.AssemblyReference.cache
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.SuggestedBindingRedirects.cache
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Form1.resources
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormDuenio.resources
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Properties.Resources.resources
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.GenerateResource.cache
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.CoreCompileInputs.cache
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.exe
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.pdb
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_G7\Solu_T3_FP_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormNumeros.resources
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe.config
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.pdb
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.AssemblyReference.cache
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Form1.resources
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormDuenio.resources
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormNumeros.resources
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Properties.Resources.resources
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.GenerateResource.cache
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.CoreCompileInputs.cache
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.exe
+C:\TRABAJOS\TRABAJO T3 - FUNDA\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.pdb
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe.config
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.pdb
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.AssemblyReference.cache
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.SuggestedBindingRedirects.cache
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Form1.resources
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormDuenio.resources
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormNumeros.resources
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Properties.Resources.resources
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.GenerateResource.cache
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.CoreCompileInputs.cache
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.exe
+G:\CursosUni\CursosAgosto_Dic_2023\Funda_Programacion\T3_FP_Grupo7\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.pdb
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe.config
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.pdb
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Form1.resources
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormDuenio.resources
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormNumeros.resources
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.exe
+C:\Users\USUARIO\source\repos\Steven\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.pdb
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe.config
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.pdb
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.AssemblyReference.cache
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Form1.resources
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormDuenio.resources
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormNumeros.resources
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Properties.Resources.resources
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.GenerateResource.cache
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.CoreCompileInputs.cache
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.exe
+C:\Daniel\Doc FunProm\T3_FunPong\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.pdb
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe.config
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.exe
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\bin\Debug\T3_FP_G7.pdb
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.AssemblyReference.cache
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Form1.resources
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormDuenio.resources
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.FormNumeros.resources
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.Properties.Resources.resources
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.GenerateResource.cache
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.csproj.CoreCompileInputs.cache
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.exe
+C:\Proyectos\T3\T3_Upn_G7\T3_FP_G7\obj\Debug\T3_FP_G7.pdb
