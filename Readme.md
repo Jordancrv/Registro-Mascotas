@@ -26,18 +26,7 @@ Para ejecutar la aplicación, asegúrate de tener el entorno adecuado para traba
 1. **Instalar Visual Studio** o cualquier IDE compatible con C#.
 2. **Configurar el proyecto**: Abre el proyecto en Visual Studio o tu IDE preferido.
 3. **Ejecutar el programa**: Compila y ejecuta la aplicación.
-
-## Uso de la Aplicación
-
-1. **Registrar Medicamento**:
-   - Ingresa los detalles del medicamento, incluyendo su nombre y código único, para agregarlo a la lista.
-
-2. **Buscar Medicamento**:
-   - Introduce el código del medicamento que deseas buscar. Si el medicamento existe, el sistema mostrará los detalles del medicamento registrado.
-
-3. **Eliminar Medicamento**:
-   - Para eliminar un medicamento, ingresa su código único. Si el medicamento está registrado, el sistema lo eliminará de la lista.
-
+   
 ## Tecnologías Utilizadas
 
 - **Lenguaje de Programación**: C#
